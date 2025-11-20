@@ -1,0 +1,5 @@
+{
+  "description": "AI UI Editor with visual element selection and refinement powered by Gemini.",
+  "requestFramePermissions": [],
+  "name": "前端gui编辑器"
+}
